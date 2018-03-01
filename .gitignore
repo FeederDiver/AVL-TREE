@@ -77,3 +77,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Projekt_pierwszy/Debug/vc120.pdb
+*.pdb
+Projekt_pierwszy/Debug/Projekt_pierwszy.tlog/Projekt_pierwszy.lastbuildstate
+*.tlog
+Projekt_pierwszy/Debug/Projekt_pierwszy.log
+*.pdb
+*.ipch
+.vs/Projekt_pierwszy/v15/Browse.VC.opendb

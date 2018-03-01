@@ -55,7 +55,7 @@ class myStock
 };
 
 int main()
-{
+{	
 	myStock <long> a;
 	a.push(5);
 	a.peek();
@@ -64,4 +64,5 @@ int main()
 	a.push(12);
 	a.pop();
 	a.push(10);
+	a.push(12);
 }
