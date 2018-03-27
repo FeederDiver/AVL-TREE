@@ -85,3 +85,5 @@ Projekt_pierwszy/Debug/Projekt_pierwszy.log
 *.pdb
 *.ipch
 .vs/Projekt_pierwszy/v15/Browse.VC.opendb
+*.db
+.vs/Projekt_pierwszy/v15/.suo

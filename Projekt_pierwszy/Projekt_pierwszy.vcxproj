@@ -65,7 +65,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Stack_INT_NOT_GENERIC.cpp" />
+    <ClCompile Include="AVL_Tree.cpp" />
+    <ClCompile Include="Draft.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Draft.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
